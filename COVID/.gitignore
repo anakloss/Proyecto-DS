@@ -1,0 +1,15 @@
+**/__pycache__
+.ipynb_checkpoints
+
+## media files
+
+
+## virtual environment
+venv
+env
+
+## dotenv
+.env
+
+## sqlite
+db.sqlite3
